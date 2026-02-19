@@ -1,0 +1,52 @@
+﻿[
+	{
+		"id": 1,
+		"name": "ChatGPT",
+		"description": "ChatGPT is a powerful AI tool that helps students and teachers write texts, understand complex topics, structure essays, and generate ideas. It can be used for drafting, revising, summarizing, and explaining concepts. A free version is available.",
+		"category": "Writing & Study",
+		"tags": "writing,study,qa,brainstorming",
+		"emoji": "💬",
+		"url": "https://chat.openai.com",
+		"audience": "Both"
+	},
+	{
+		"id": 2,
+		"name": "DeepL",
+		"description": "DeepL is a highly reliable AI-powered translation tool known for its accuracy and natural language quality. It preserves meaning, tone, and context, making it especially useful for academic and educational texts. A free version is available online.",
+		"category": "Language & translating",
+		"tags": "translating,language",
+		"emoji": "✍️",
+		"url": "https://www.deepl.com/en/translator",
+		"audience": "Students"
+	},
+	{
+		"id": 3,
+		"name": "NotebookLM",
+		"description": "NotebookLM is an AI research assistant developed by Google. It helps users analyze, summarize, and understand large amounts of information by allowing them to upload documents and ask questions directly about the content. Free to use with a Google account.",
+		"category": "Research & Information",
+		"tags": "notes,organization,students",
+		"emoji": "📝",
+		"url": "https://notebooklm.google/",
+		"audience": "Both"
+	},
+	{
+		"id": 4,
+		"name": "Canva",
+		"description": "Canva allows users to create professional and visually appealing presentations with the help of AI. It offers ready-made templates, design suggestions, and text assistance. The free version is more than sufficient for most educational needs.",
+		"category": "Presentation",
+		"tags": "design,presentations,visuals",
+		"emoji": "🎨",
+		"url": "https://canva.com",
+		"audience": "Both"
+	},
+	{
+		"id": 5,
+		"name": "Wolfram Alpha",
+		"description": "Wolfram Alpha is an advanced computational AI tool for mathematics, statistics, and science. It can solve equations, provide step-by-step solutions, and visualize data. A free version is available and widely used in education.",
+		"category": "Mathematics",
+		"tags": "math,science,calculations",
+		"emoji": "➗",
+		"url": "https://www.wolframalpha.com",
+		"audience": "Students"
+	}
+]
